@@ -1,3 +1,10 @@
-romiiiiiiii
-fedy
-lafic
+<!DCTYPE html>
+<html>
+<head>
+<title><i><u>Halaman Html Pertama Saya</i></u></title>
+</head>
+<body>
+<b>Selamat datang di halaman</b>  <b><i>Html</b></i> pertama sya =] silahkan lihat-lihat
+<p>saya sudah melihat lihat dan produknya bagus sekali menurut saya</p>
+</body>
+</html>
